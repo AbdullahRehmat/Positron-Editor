@@ -1,7 +1,6 @@
 # Positron - Editor
 
 A basic text editor written in Python with the PyQt6 framework.
-
 Forms part of the Positron Software Suite.
 
 ## Structure
