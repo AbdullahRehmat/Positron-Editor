@@ -47,7 +47,7 @@
          <enum>Qt::ScrollBarAlwaysOn</enum>
         </property>
         <property name="placeholderText">
-         <string>Positron Editor V4.0</string>
+         <string>Positron Editor V1.0.0</string>
         </property>
        </widget>
       </item>
